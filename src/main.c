@@ -5,7 +5,7 @@
 #include "Log.h"
 
 int main(int argc, char* argv[]) {
-#if 0
+#if 1
 	if (argc < 3) {
 		printf("./a.out port path\n");
 		return -1;
